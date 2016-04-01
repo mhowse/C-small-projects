@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: cleddyf
+ * Author: mhowse
  *
  * Created on 1 April 2016, 9:52 PM
  */
