@@ -12,7 +12,7 @@ using namespace std;
 /*
  * 
  */
-int main(int argc, char** argv) {
+int notMain(int argc, char** argv) {
     string data= std::cin;
     return 0;
 }
