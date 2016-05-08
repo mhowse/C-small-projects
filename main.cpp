@@ -11,6 +11,6 @@ using namespace std;
 
 int main()
 {
-	std::cout << "Hello World!" << std::endl;
+	std::cout << "Hello World!\n A c++ file via Visual Studio" << std::endl;
 	}
 
