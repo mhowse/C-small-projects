@@ -1,0 +1,7 @@
+﻿  Acronym_Generator.cpp
+Acronym_Generator.cpp(16): error C2065: 'string': undeclared identifier
+Acronym_Generator.cpp(16): error C2146: syntax error: missing ';' before identifier 'data'
+Acronym_Generator.cpp(16): error C2065: 'data': undeclared identifier
+Acronym_Generator.cpp(16): error C2039: 'cin': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+Acronym_Generator.cpp(16): error C2065: 'cin': undeclared identifier
